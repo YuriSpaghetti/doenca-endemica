@@ -1,5 +1,6 @@
 uv.lock
 .venv
 __pycache__
-uv.lock
 .log
+config.yaml
+*.db
